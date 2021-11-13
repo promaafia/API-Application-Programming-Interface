@@ -122,7 +122,7 @@ Online business APIs are utilized in numerous ways. From showing items on an int
 - Transportation APIs 
 - Money transformation APIs
 
-### Why This E-commerce SIte Use APIs
+### Why This E-commerce Site Use APIs
 
 APIs offer a wide scope of advantages for Ecommerce Sites. They can assist consumers with effectively tracking down items, growing a company's brand, or even extending their acquiring potential by selling items on different commercial centers like __eBay__, __Amazon__, __Facebook__ and so on. Recorded beneath are a few advantages of why API is so essential to internet business locales today.
 
@@ -131,7 +131,7 @@ E-commerce site use this APIs, because of
 - Speed
 - Scalability
 
-# The APIs Fueling Your BigCommerce Site 
+# The APIs Fueling Your Big Commerce Site 
 
 BigCommerce offers a scope of APIs, beneath are a few instances of our Catalog API, Login API, and Cart API that assist with driving your BigCommerce store. 
 
